@@ -40,7 +40,12 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 - Offline downloading maps
 - Measuring distance
 
-   
+
+New App Idea:
+SnapStudy is an AI-powered study assistant that helps students learn faster and more effectively. Users can take pictures of their notes, textbooks, or problems, and the app will generate summaries, flashcards, or step-by-step solutions. Key features include customizable quizzes, study session timers, and progress tracking. The app also supports collaboration, allowing students to share resources and quiz each other in real-time.
+
+
+
 ## Notes
 
 ## License
